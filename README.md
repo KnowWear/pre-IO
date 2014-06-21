@@ -1,4 +1,4 @@
-pre-IO
+pre-IO Glass Hack
 ======
 
 Pre-IO Glass Hackathon build of KnowWear.
