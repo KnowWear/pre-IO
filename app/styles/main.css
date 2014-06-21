@@ -29,7 +29,7 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    background-color: #4285f4;
+    background-color: #aaaaaa;
     overflow: hidden;
     z-index: 1;
 }
@@ -224,7 +224,7 @@ main {
         max-width: 864px;
         padding: 0 16px;
         box-sizing: border-box;
-        background-color: #4285f4;
+        background-color: #aaaaaa;
     }
 
     .app-bar .logo {
