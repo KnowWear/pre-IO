@@ -1,11 +1,5 @@
 {
-  "text": "This is the question that will be asked through KnowWear.\n",
-  "creator": {
-    "displayName": "KnowWear",
-    "imageUrls": [
-      "https://doc-0g-9g-docs.googleusercontent.com/docs/securesc/ff5ibdhh0r53cn66qffbbioslora2s2u/c301st9ufpn67m91blqd5fohnjf6sev2/1403337600000/05777721754873033103/05777721754873033103/0B9H_A9rlkTv5MGFLSlZ4UWhPTzg?h=16653014193614665626&e=view"
-    ]
-  },
+  "html": "<article>\n  <section>\n    <p class=\"text-auto-size\">How many states are in the United States?\n    </p>\n  </section>\n <footer>\n    <img src=\"http://drive.google.com/uc?export=view&id=0B9H_A9rlkTv5QVhGRFB0VVJrLUk\" class=\"left\">\n    <p>KnowWear</p>\n  </footer>\n</article>\n  </article>\n",
   "menuItems": [
     {
       "action": "REPLY"
